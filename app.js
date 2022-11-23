@@ -15,6 +15,15 @@ const products = [
         code: "darkblue",
         img: "image/air2.png",
       },
+      {
+        code: "red",
+        img: "image/air3.png",
+      },
+       {
+        code: "yellow",
+        img: "image/air4.png",
+      },
+      
     ],
   },
   {
@@ -29,6 +38,14 @@ const products = [
       {
         code: "green",
         img: "image/jordan2.png",
+      },
+  {
+        code: "red",
+        img: "image/air3.png",
+      },
+       {
+        code: "yellow",
+        img: "image/air4.png",
       },
     ],
   },
@@ -45,6 +62,14 @@ const products = [
         code: "green",
         img: "image/blazer2.png",
       },
+    {
+        code: "red",
+        img: "image/air3.png",
+      },
+       {
+        code: "yellow",
+        img: "image/air4.png",
+      },
     ],
   },
   {
@@ -60,6 +85,14 @@ const products = [
         code: "lightgray",
         img: "image/crater2.png",
       },
+      {
+        code: "red",
+        img: "image/air3.png",
+      },
+       {
+        code: "yellow",
+        img: "image/air4.png",
+      },
     ],
   },
   {
@@ -74,6 +107,14 @@ const products = [
       {
         code: "black",
         img: "image/hippie2.png",
+      },
+      {
+        code: "red",
+        img: "image/air3.png",
+      },
+       {
+        code: "yellow",
+        img: "image/air4.png",
       },
     ],
   },

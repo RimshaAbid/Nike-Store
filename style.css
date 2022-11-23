@@ -320,8 +320,9 @@ label {
 }
 
 .color:last-child {
-  background-color: darkblue;
+  background-color: yellow;
 }
+
 
 .size {
   padding: 5px 20px;
