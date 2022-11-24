@@ -24,17 +24,22 @@ nav {
   display: flex;
   align-items: center;
   background-color: gray;
-  padding: 10px 20px;
-  border-radius: 10px;
+  border-radius: 20px;
+  margin-left: -50px;
 }
 
 .searchInput {
-  border: none;
-  background-color: transparent;
+    border: none;
+    padding: 10px 10px;
+    background: gray;
+    border-radius: 20px;
 }
 
 .searchInput::placeholder {
   color: lightgray;
+}
+.searchIcon{
+  margin: -32px;
 }
 
 .limitedOffer {
